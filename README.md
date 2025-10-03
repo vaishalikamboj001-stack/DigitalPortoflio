@@ -23,8 +23,15 @@ This project is a digital portfolio website, it is a designed which showcase pro
 ## 📁 Project Structure
 
 ```bash
-├── index.html          # Main HTML file for the portfolio layout in HTML
-├── style.css           # Stylesheet containing all visual styles
-├── UI_Design.fig       # Figma design file (UI mockups and design references)
-└── README.md           # This file
+├── index.html          # Main HTML file
+├── style.css           # Stylesheet
+├── UI_Design.fig       # Figma design file
+├── README.md           # Documentation
+└── images/             # ✅ All your images here
+    ├── logo.png
+    ├── profilePhoto.jpg
+    ├── aboutMePhoto.jpg
+    ├── blumApp.jpeg
+    ├── smartWatchApp.png
+    ├── dentalWebApp.jpeg
 
