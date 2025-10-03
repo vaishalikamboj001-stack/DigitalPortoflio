@@ -9,9 +9,9 @@
         .navbar {
             position: fixed;
             top: 0;
-            width: 100%;
+            width: 98%;
             background: #2c2c2c;
-            padding: 1rem 0;
+            padding: 0.5rem 0;
             z-index: 1000;
             border-radius: 0 0 25px 25px;
         }
@@ -19,7 +19,7 @@
         .nav-container {
             max-width: 1200px;
             margin: 0 auto;
-            padding: 0 2rem;
+            padding: 0 1rem;
             display: flex;
             justify-content: space-between;
             align-items: center;
@@ -31,6 +31,7 @@
             padding: 0.5rem 1.5rem;
             border-radius: 25px;
             font-weight: 600;
+            height: 30px;   
         }
 
         .nav-menu {
@@ -121,20 +122,18 @@
             background: linear-gradient(135deg, #ff6b35, #ff8c42);
             position: relative;
             display: flex;
-            align-items: flex-end;
-            justify-content: center;
-            overflow: hidden;
+            align-items: center;        
+            justify-content: center;     
+            overflow: hidden;           
         }
 
         .hero-photo {
-            width: 300px;
-            height: 380px;
-            background: #333;
-            border-radius: 10px;
-            position: relative;
-            z-index: 2;
-            margin-bottom: -20px;
+            width: 100%;                
+            height: 100%;
+            object-fit: cover;           
+            object-position: center;    
         }
+
 
         /* About Section */
         .about {
@@ -218,7 +217,7 @@
         }
 
         .projects-grid {
-            max-width: 1200px;
+            max-width: 1400px;
             margin: 0 auto;
             padding: 0 2rem;
             display: grid;
@@ -235,18 +234,36 @@
         }
 
         .project-image {
-            height: 150px;
+            height: 280px; 
             background: #f0f0f0;
+            overflow: hidden;
             display: flex;
             align-items: center;
             justify-content: center;
         }
 
+        .project-image img {
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+            display: block;
+            border-radius: 0; 
+        }
+
         .project-title {
-            padding: 1rem;
-            font-size: 1.1rem;
-            color: #333;
+            padding: 0.8rem;
+            font-size: 1.2rem;
+            background-color: #ff6b35;
+            color: white;
             font-weight: 600;
+            text-align: center;
+            border-radius: 5px;
+        }
+
+        .project-card a {
+            text-decoration: none; 
+            color: inherit;
+            display: block;
         }
 
         /* Tools & Skills Section */
