@@ -4,7 +4,7 @@ This project is a digital portfolio website, it is a designed which showcase pro
 ## 🌐 Live Website
 
 🚀 The portfolio is deployed and live at:<br>
-👉 <a href="https://vaishalikamboj001-stack.github.io/DigitalPortoflio/" target="_blank">https://vaishalikamboj001-stack.github.io/DigitalPortoflio/</a>
+👉 <a href="https://vaishalikamboj001-stack.github.io/DigitalPortoflio/" target="_blank">DigitalPortoflio/</a>
 
 ## ✨ Features
 
