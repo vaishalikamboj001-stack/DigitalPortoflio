@@ -15,3 +15,11 @@ This project is a digital portfolio website, it is a designed which showcase pro
 - VS Code
 - Figma
 
+## 📁 Project Structure
+
+```bash
+├── index.html          # Main HTML file for the portfolio layout in HTML
+├── style.css           # Stylesheet containing all visual styles
+├── UI_Design.fig       # Figma design file (UI mockups and design references)
+└── README.md           # This file
+
