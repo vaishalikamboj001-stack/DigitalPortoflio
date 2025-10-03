@@ -7,7 +7,7 @@ This project is a digital portfolio website, it is a designed which showcase pro
 - "About Me" section with professional summary
 - Skills and Projects Link with Short Description 
 - Downloadable resume
-- Contact form or contact information
+- contact information
 
 ## 🔧 Tech Stack
 
