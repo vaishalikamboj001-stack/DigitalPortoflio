@@ -28,10 +28,9 @@ This project is a digital portfolio website, it is a designed which showcase pro
 ├── UI_Design.fig       # Figma design file
 ├── README.md           # Documentation
 └── images/             # ✅ All your images here
-    ├── logo.png
-    ├── profilePhoto.jpg
-    ├── aboutMePhoto.jpg
-    ├── blumApp.jpeg
-    ├── smartWatchApp.png
-    ├── dentalWebApp.jpeg
-
+    ├── logo.png            #Logo     
+    ├── profilePhoto.jpg    #Home page profile image
+    ├── aboutMePhoto.jpg    #About page image
+    ├── blumApp.jpeg        #Blum App project Image
+    ├── smartWatchApp.png   #SmartWatch Project Image 
+    └── dentalWebApp.jpeg   #Dental Website Project Image
